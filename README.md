@@ -175,9 +175,9 @@ The final test accuracies on the FER2013 test set were as follows:
 
 | Model                     | Test Accuracy (%) |
 | :------------------------ | :---------------- |
-| Custom CNN                | 61.54             |
-| MobileNetV2 (Fine-Tuned)  | 57.06             |
-| MobileNetV2 (Head Only)   | 42.23             |
+| Custom CNN                | 61.84             |
+| MobileNetV2 (Fine-Tuned)  | 59.78             |
+| MobileNetV2 (Head Only)   | 42.24             |
 
 ### Training Behavior
 
